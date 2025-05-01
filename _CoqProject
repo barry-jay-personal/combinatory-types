@@ -1,0 +1,11 @@
+-R . CombinatoryLogicWithTypeInference
+
+sk.v
+types.v
+infer.v
+
+#  coq_makefile -f _CoqProject -o CoqMakefile
+
+
+
+
